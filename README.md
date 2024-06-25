@@ -17,6 +17,9 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Bomb-omb)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Bomb-omb)
+[!Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/Bomb-omb)
+[!PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/Bomb-omb)
+
 
 <p align="center">
   <a href="https://github.com/Bomb-omb">
